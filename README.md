@@ -2,7 +2,7 @@
 
 ### 效果图
 
-<div style={align: center}><img src="https://img-blog.csdnimg.cn/226f060002b042f396ce2527ad7d3a55.gif#pic_center" width="300" height="450" /></div>
+![gif]('https://img-blog.csdnimg.cn/226f060002b042f396ce2527ad7d3a55.gif#pic_center',"gif')
 
 ### 拉取代码
 
