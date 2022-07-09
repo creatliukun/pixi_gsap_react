@@ -1,5 +1,9 @@
 ## react 中 利用 pixi.js 与 gsap 实现刹车动效
 
+### 效果图
+
+https://img-blog.csdnimg.cn/226f060002b042f396ce2527ad7d3a55.gif#pic_center
+
 ### 拉取代码
 
 ```
