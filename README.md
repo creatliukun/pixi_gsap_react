@@ -28,4 +28,6 @@ npm install pixi.js
 packeage.json 里有对应版本
 ```
 
+### pixi.js 参考地址
+
 [github pixi.js](https://github.com/pixijs/pixijs)
