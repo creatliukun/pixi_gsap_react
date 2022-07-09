@@ -28,5 +28,4 @@ npm install pixi.js
 packeage.json 里有对应版本
 ```
 
-[github pixi.js]('pixijs github
-https://github.com/pixijs/pixijs')
+[github pixi.js](https://github.com/pixijs/pixijs)
